@@ -1,4 +1,4 @@
-# Smart Contract Audit AI
+# Smart Contract Audit AI----DEMO!!Not ready
 
 > Local AI assistant that reads smart contract source code and produces structured security reports — powered by a fine-tuned language model and a retrieval-augmented knowledge base of real-world vulnerability patterns.
 
@@ -150,4 +150,4 @@ To use the fine-tuned adapter instead of the base model, see [`docs/architecture
 
 ## Sample report
 
-See [`reports/example_report.md`](reports/example_report.md) for a full agent-generated audit output.
+See [`reports/example_report.md`](reports/example_report.md) for a full agent-generated audit output.(not yet!!)
